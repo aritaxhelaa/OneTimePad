@@ -1,4 +1,4 @@
-package OTP;
+package OPT;
 
 public class SymmetricAlgorithm {
 }

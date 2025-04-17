@@ -1,4 +1,4 @@
-package OTP;
+package OPT;
 import java.util.Scanner;
 public class MessageInput {
 
