@@ -1,4 +1,4 @@
-package com.example.OneTimePad;
+package OTP;
 
 public class SymmetricAlgorithm {
 }

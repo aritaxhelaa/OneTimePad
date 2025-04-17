@@ -1,4 +1,4 @@
-package OPT;
+package OTP;
 
 public class Main {
 }
